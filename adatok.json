@@ -1,0 +1,24 @@
+{
+    "irok":[
+        {
+            "nev":"Jószef Attila",
+            "szul":1950
+        },
+        {
+            "nev":"Lackfy János",
+            "szul":1969
+        }
+
+    ],
+    "konvyek":[
+        {
+            "cim":"Versek",
+            "iroAzon":1
+        },
+        {
+            "cim":"Anyám Kakasa",
+            "iroAzon":2
+    
+        }
+    ]
+}
